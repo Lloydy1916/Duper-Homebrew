@@ -20,6 +20,6 @@
 	},
 	"homepage": "https://github.com/TheGiddyLimit/homebrew#readme",
 	"dependencies": {
-		"clipboardy": "^1.2.3"
+		"clipboardy": "^4.0.0"
 	}
 }
